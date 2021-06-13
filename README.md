@@ -2,7 +2,7 @@
 
 ## Blockchain
 
-Make .env file in root directory, copy variables from .env.example and set accoridng to your requirement.
+Make .env file in root directory, copy variables from .env.example and set according to your requirement.
 
 Run following commands :
 
